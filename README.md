@@ -63,6 +63,7 @@ Renaming the Pins
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY1/renaming%20fet.jpg)
 
+
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY1/renamefet_2.jpg)
 
 
@@ -86,7 +87,10 @@ Opening Inverter.spice file in Magic
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY1/spiceinmagic.jpg)
 
+Inverter in Magic
+
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY1/inv_1.jpg)
+
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY1/inv_2.jpg)
 
@@ -118,6 +122,7 @@ Checking for duplicates
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY2/duplicates.jpg)
 
+
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY2/duplicate%20result.jpg)
 
 
@@ -130,13 +135,13 @@ Lef Read
  
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY2/lefspiceexecuted.jpg)
 
+Ports 
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY2/moreports.jpg)
 
 Port Name, Class, Use
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY2/port_def.jpg)
-
 
 Abstract View
 
@@ -177,13 +182,16 @@ Running a full R-C extraction
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY2/extresist_6.jpg)
 
+
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY2/extresist_7.jpg)
+
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY2/extresist_8.jpg)
 
 The spice netlist consist of both R and C
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY2/extresist_9.jpg)
+
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY2/extresist_10.jpg)
 
@@ -220,6 +228,8 @@ Erase Polysil
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY2/erase_19.jpg)
 
+After erasing Polysil
+
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY2/erase_shown.jpg)
 
 
@@ -252,6 +262,7 @@ Spacing error rule is corrected
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY3/spacingcorrected_6.jpg)
 
+
 ### Wide Spacing and Notch Rules
 
 Wide spacing error
@@ -265,6 +276,7 @@ Wide Spacing error is corrected
 Notch rule
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY3/notchrule_9.jpg)
+
 
 ### Contact Cuts (Via) and its DRC Errors
 
@@ -300,7 +312,9 @@ Metal overlap error corrected
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY3/overlaperrorfixed_17.jpg)
 
+
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY3/overlapsolved_18.jpg)
+
 
 ### Minimum Area and Minimum Hole Rule
 
@@ -325,6 +339,7 @@ Minimum Hole error corrected
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY3/errorcorrect_23.jpg)
 
+
 ### Wells and Deep N-Wells
 
 Set DRC type to full before checking for Wells
@@ -338,6 +353,7 @@ Error after creating a tap to correct a well error
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY3/taperror_25.jpg)
 
 Error is Corrected
+
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY3/fixall_26.jpg)
 
 Pwell has to be connected if it has a tap
@@ -351,6 +367,7 @@ Deep well error
 Deep well error corrected
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY3/deepwellfixed_29.jpg)
+
 
 ### Derived Layers
 
@@ -378,6 +395,7 @@ NDSM HVI
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY3/ndsmhvi_35.jpg)
 
+
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY3/final_36.jpg)
 
 Cif see NPC
@@ -393,6 +411,7 @@ Satisfies all width and spacing rule for NPC
 Different arrangement
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY3/diffarrangement_39.jpg)
+
 
 ### Parameterised and PDK Devices
 
@@ -593,6 +612,7 @@ Comp.out file
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY5/cout_31.jpg)
 
+
 ### LVS with SPICE Low Level Components
 
 Subcircuits with Resistors and Capacitors
@@ -666,6 +686,7 @@ Analog wrapper file in Xschem
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY5/rerun_46.jpg)
 
+
 ### Layout Vs. Verilog for Standard Cell
 
 Since netlist is compared to Verilog there is no schematic capture.
@@ -701,6 +722,7 @@ FILLER_0_11 in magic
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY5/emptymagic_54.jpg)
 
+
 ### LVS for Digital PLL Design
 
 Extract the netlist 
@@ -716,6 +738,7 @@ Comp.out file
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY5/cout_57.jpg)
 
 Diode Mismatch in comp.out
+
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY5/diodemismtach_58.jpg)
 
 ![enter image description here](https://github.com/Krishnakumar-Pugazhenthi/Physical-Verification-using-SKY130/blob/main/DAY5/diode_59.jpg)
