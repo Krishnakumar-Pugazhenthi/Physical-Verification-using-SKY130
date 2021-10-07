@@ -4,15 +4,15 @@
 
 ## Table of Contents
 
-[Day 1 - Introduction to SkyWater SKY130 and Open-Source EDA Tools.](##%20*Day%201%20-%20Introduction%20to%20SkyWater%20SKY130%20and%20Open-Source%20EDA%20Tools*)
+Day 1 - Introduction to SkyWater SKY130 and Open-Source EDA Tools.
 
-[Day 2 - Design Rule Checks and Layout Vs. Simulation.](##%20*Day%202%20-%20Design%20Rule%20Checks%20and%20Layout%20Vs.%20Simulation*)
+Day 2 - Design Rule Checks and Layout Vs. Simulation.
 
-[Day 3 - Design Rule Checking.](#%20*Day%203%20-%20Design%20Rule%20Checking*)
+Day 3 - Design Rule Checking.
 
-[Day4 - Openlane Flow](#%20*Day%204:%20OpenLane%20Flow*)
+Day4 - Openlane Flow.
 
-[Day 5 - Running Layout Vs. Schematic.](#%20*DAY%205-%20Running%20LVS*)
+Day 5 - Running Layout Vs. Schematic.
 
 
 ## *Day 1 - Introduction to SkyWater SKY130 and Open-Source EDA Tools*
